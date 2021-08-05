@@ -15,7 +15,7 @@ body {
 }
 .res_header_top {
   height: 60px;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #374F41;
     /* For Design and Testing Purposes */
     /* background-color: red; */
 }
@@ -26,7 +26,7 @@ body {
   padding-right: 14px;
   position: relative;
   top: 20%;
-  color: #514F4B;
+  color: #374F41;
 }
 .res_header_bottom {
   height: 150px;
@@ -51,8 +51,7 @@ body {
 .res_content_desc {
   font-size: 24px;
   font-family: Helvetica, sans-serif; 
-    color: #514F4B;
-
+  color: #514F4B;
 }
 .res_content_header {
   background-color: #374F41;

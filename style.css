@@ -1,0 +1,111 @@
+body {
+  background-color: white;
+  max-width: 1000px;
+}
+.res_header {
+  height: 210px;
+  margin-top: 20px;
+    /* For Design and Testing Purposes */
+    /* background-color: white; */
+}
+.res_header_img {
+  position: absolute;
+  margin-left: 14px;
+  margin-top: 6px;
+}
+.res_header_top {
+  height: 60px;
+  border-bottom: 2px solid black;
+    /* For Design and Testing Purposes */
+    /* background-color: red; */
+}
+.res_header_top_text {
+  text-align: right;
+  font-size: 20px;
+  font-family: Helvetica, sans-serif; 
+  padding-right: 14px;
+  position: relative;
+  top: 20%;
+  color: #514F4B;
+}
+.res_header_bottom {
+  height: 150px;
+    /* For Design and Testing Purposes */
+    /* background-color: yellow; */
+}
+.res_header_bottom_text {
+  text-align: right;
+  font-size: 18px;
+  font-family: Helvetica, sans-serif; 
+  padding-right: 14px;
+  padding-top: 1px;
+  line-height: 6px;
+  color: #514F4B;
+}
+.res_content {
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 90%;
+}
+.res_content_desc {
+  font-size: 24px;
+  font-family: Helvetica, sans-serif; 
+    color: #514F4B;
+
+}
+.res_content_header {
+  background-color: #374F41;
+  width: 500px;
+  margin-top: 30px;
+  font-size: 24px;
+  font-family: Helvetica, sans-serif; 
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding-left: 16px;
+  color: white;
+}
+.res_content_work {
+  width: 500px;
+  margin-top: 40px;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif; 
+  line-height: 4px;
+  color: #514F4B;
+}
+.res_content_work_desc {
+  width: 700px;
+  font-size: 16px;
+  font-family: Helvetica, sans-serif; 
+  line-height: 20px;
+  color: #514F4B;
+}
+.res_content_education {
+  width: 500px;
+  margin-top: 40px;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif; 
+  line-height: 4px;
+  color: #514F4B;
+}
+.res_content_gallery_item {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 270px;
+}
+.res_content_gallery:hover {
+  border: 1px solid #777;
+}
+.res_content_gallery img {
+  width: 100%;
+}
+.res_content_gallery_desc {
+  height: auto;
+  padding-left: 2px;
+  padding-right: 2px;
+  text-align: center;
+  font-size: 12px;
+  font-family: Helvetica, sans-serif; 
+}
